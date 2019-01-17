@@ -1,0 +1,36 @@
+
+acorn@acorn-PC MINGW64 /c/githubtest
+$ git config --global user.name "mankook"
+
+acorn@acorn-PC MINGW64 /c/githubtest
+$ git config --global user.email "iadslba@naver.com"
+
+
+acorn@acorn-PC MINGW64 /c/githubtest
+$ git config --global user.name "mankook"
+
+acorn@acorn-PC MINGW64 /c/githubtest
+$ git config --global user.email "iadslba@naver.com"
+
+acorn@acorn-PC MINGW64 /c/githubtest
+$ git config --global color.ui "auto"
+
+acorn@acorn-PC MINGW64 /c/githubtest
+$ git config --global --list
+gui.recentrepo=C:/work
+user.name=mankook
+user.email=iadslba@naver.com
+color.ui=auto
+
+acorn@acorn-PC MINGW64 /c/githubtest
+$
+
+acorn@acorn-PC MINGW64 /c/githubtest
+$
+
+
+
+
+
+
+
