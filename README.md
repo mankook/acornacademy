@@ -1,0 +1,13 @@
+# colab 활용 
+- linux - ubuntu
+- ubuntu -> colab -> google drive
+- ngrok을 활용한 server 배포 작업
+- python 기본
+- numpy
+- pandas
+- scipy
+- statsmodels
+- scikits
+- tensorflow
+- keras
+- pytorch  교육 과정을 일시에 준비 하여 14시간으로 학습할 수 있도록 준비하여 강의 
